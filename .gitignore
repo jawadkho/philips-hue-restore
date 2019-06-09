@@ -1,0 +1,7 @@
+__pycache__
+.vscode
+venv
+
+old-hue
+hue_backup
+details.md
